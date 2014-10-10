@@ -1,0 +1,25 @@
+
+> ghost@0.5.2 start /data/www3/acmakhoa
+> node index
+
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://acmakhoa.com [90m
+Ctrl+C to shut down[39m
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET / HTTP/1.0" 200 - "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /assets/css/screen.css?v=2bd8f71a94 HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /assets/js/jquery.fitvids.js?v=2bd8f71a94 HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /public/jquery.min.js?v=2bd8f71a94 HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /assets/js/index.js?v=2bd8f71a94 HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /assets/fonts/casper-icons.woff HTTP/1.0" 200 2260 "http://acmakhoa.com/assets/css/screen.css?v=2bd8f71a94" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:12:58 GMT] "GET /favicon.ico HTTP/1.0" 200 - "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:03 GMT] "GET / HTTP/1.0" 200 - "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:03 GMT] "GET /assets/css/screen.css?v=2bd8f71a94 HTTP/1.0" 304 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:03 GMT] "GET /assets/js/jquery.fitvids.js?v=2bd8f71a94 HTTP/1.0" 304 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:03 GMT] "GET /public/jquery.min.js?v=2bd8f71a94 HTTP/1.0" 304 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:03 GMT] "GET /assets/js/index.js?v=2bd8f71a94 HTTP/1.0" 304 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:04 GMT] "GET /10-triet-ly-song-cuc-ky-co-gia-tri-ban-nen-biet/ HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:10 GMT] "GET / HTTP/1.0" 200 - "http://acmakhoa.com/10-triet-ly-song-cuc-ky-co-gia-tri-ban-nen-biet/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:12 GMT] "GET /welcome-to-ghost/ HTTP/1.0" 200 - "http://acmakhoa.com/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:18 GMT] "GET /author/acmakhoa/ HTTP/1.0" 200 - "http://acmakhoa.com/welcome-to-ghost/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
+115.78.208.198 - - [Fri, 10 Oct 2014 08:13:27 GMT] "GET /10-triet-ly-song-cuc-ky-co-gia-tri-ban-nen-biet/ HTTP/1.0" 200 - "http://acmakhoa.com/author/acmakhoa/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0"
